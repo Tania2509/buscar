@@ -29,9 +29,6 @@
         private void InitializeComponent()
         {
             this.dgvProductos = new System.Windows.Forms.DataGridView();
-            this.btnActualizar = new System.Windows.Forms.Button();
-            this.btnEliminar = new System.Windows.Forms.Button();
-            this.btnAgregar = new System.Windows.Forms.Button();
             this.txtCantidad = new System.Windows.Forms.TextBox();
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.lbFecha = new System.Windows.Forms.Label();
@@ -56,39 +53,6 @@
             this.dgvProductos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvProductos.Size = new System.Drawing.Size(1000, 234);
             this.dgvProductos.TabIndex = 18;
-            // 
-            // btnActualizar
-            // 
-            this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold);
-            this.btnActualizar.Location = new System.Drawing.Point(456, 316);
-            this.btnActualizar.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
-            this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(170, 63);
-            this.btnActualizar.TabIndex = 17;
-            this.btnActualizar.Text = "Actualizar";
-            this.btnActualizar.UseVisualStyleBackColor = true;
-            // 
-            // btnEliminar
-            // 
-            this.btnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold);
-            this.btnEliminar.Location = new System.Drawing.Point(735, 316);
-            this.btnEliminar.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
-            this.btnEliminar.Name = "btnEliminar";
-            this.btnEliminar.Size = new System.Drawing.Size(170, 63);
-            this.btnEliminar.TabIndex = 16;
-            this.btnEliminar.Text = "Eliminar";
-            this.btnEliminar.UseVisualStyleBackColor = true;
-            // 
-            // btnAgregar
-            // 
-            this.btnAgregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold);
-            this.btnAgregar.Location = new System.Drawing.Point(179, 316);
-            this.btnAgregar.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
-            this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(170, 63);
-            this.btnAgregar.TabIndex = 15;
-            this.btnAgregar.Text = "Agregar";
-            this.btnAgregar.UseVisualStyleBackColor = true;
             // 
             // txtCantidad
             // 
@@ -149,17 +113,17 @@
             // 
             // txtBuscar
             // 
-            this.txtBuscar.Location = new System.Drawing.Point(296, 252);
+            this.txtBuscar.Location = new System.Drawing.Point(281, 300);
             this.txtBuscar.Name = "txtBuscar";
-            this.txtBuscar.Size = new System.Drawing.Size(482, 22);
+            this.txtBuscar.Size = new System.Drawing.Size(507, 22);
             this.txtBuscar.TabIndex = 20;
             // 
             // btnBuscar
             // 
             this.btnBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBuscar.Location = new System.Drawing.Point(849, 235);
+            this.btnBuscar.Location = new System.Drawing.Point(815, 273);
             this.btnBuscar.Name = "btnBuscar";
-            this.btnBuscar.Size = new System.Drawing.Size(105, 57);
+            this.btnBuscar.Size = new System.Drawing.Size(130, 75);
             this.btnBuscar.TabIndex = 21;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
@@ -174,9 +138,6 @@
             this.Controls.Add(this.txtBuscar);
             this.Controls.Add(this.cbCategoria);
             this.Controls.Add(this.dgvProductos);
-            this.Controls.Add(this.btnActualizar);
-            this.Controls.Add(this.btnEliminar);
-            this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.txtCantidad);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.lbFecha);
@@ -193,9 +154,6 @@
 
         #endregion
         private System.Windows.Forms.DataGridView dgvProductos;
-        private System.Windows.Forms.Button btnActualizar;
-        private System.Windows.Forms.Button btnEliminar;
-        private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.TextBox txtCantidad;
         private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label lbFecha;

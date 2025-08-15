@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Modelos.Entidades;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -41,5 +42,7 @@ namespace Vistas.Formularios
         {
             MostrarPeliculas();
         }
+
+    
     }
 }

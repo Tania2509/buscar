@@ -7,24 +7,20 @@
       "RelativeMoniker": "D:0:0:{0CA3801A-2489-4842-B40D-9392ED06010C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|c:\\users\\jrlop\\onedrive\\desktop\\buscar\\adiministracion - buscar\\vistas\\formularios\\frmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\vistas\\formularios\\frmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|c:\\users\\jrlop\\onedrive\\desktop\\buscar\\adiministracion - buscar\\vistas\\formularios\\frmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\vistas\\formularios\\frmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CA3801A-2489-4842-B40D-9392ED06010C}|Modelos\\Modelos.csproj|c:\\users\\jrlop\\onedrive\\desktop\\buscar\\adiministracion - buscar\\modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CA3801A-2489-4842-B40D-9392ED06010C}|Modelos\\Modelos.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA3801A-2489-4842-B40D-9392ED06010C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|c:\\users\\jrlop\\onedrive\\desktop\\buscar\\adiministracion - buscar\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0724A47-A9ED-49B5-B68F-8983ACA91513}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CA3801A-2489-4842-B40D-9392ED06010C}|Modelos\\Modelos.csproj|c:\\users\\jrlop\\onedrive\\desktop\\buscar\\adiministracion - buscar\\modelos\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA3801A-2489-4842-B40D-9392ED06010C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +42,7 @@
               "RelativeToolTip": "Vistas\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:11:33.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T19:11:33.594Z"
             },
             {
               "$type": "Document",
@@ -57,22 +52,9 @@
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAdministracion.cs",
               "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\Vistas\\Formularios\\frmAdministracion.cs",
               "RelativeToolTip": "Vistas\\Formularios\\frmAdministracion.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAhwCEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T19:08:58.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\Modelos\\Entidades\\Categoria.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Categoria.cs",
-              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\Modelos\\Entidades\\Categoria.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T18:49:42.055Z",
               "EditorCaption": ""
             },
             {
@@ -83,7 +65,7 @@
               "RelativeDocumentMoniker": "Modelos\\Entidades\\Producto.cs",
               "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Buscar\\Adiministracion - Buscar\\Modelos\\Entidades\\Producto.cs",
               "RelativeToolTip": "Modelos\\Entidades\\Producto.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswCIAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T18:49:35.694Z",
               "EditorCaption": ""
