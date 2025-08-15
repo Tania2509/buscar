@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelos", "Modelos", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vistas", "Vistas", "{EA361BCC-DEBE-4500-88FE-ECBC99EA37DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{0CA3801A-2489-4842-B40D-9392ED06010C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "Vistas\Vistas.csproj", "{B0724A47-A9ED-49B5-B68F-8983ACA91513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA3801A-2489-4842-B40D-9392ED06010C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA3801A-2489-4842-B40D-9392ED06010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA3801A-2489-4842-B40D-9392ED06010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA3801A-2489-4842-B40D-9392ED06010C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0724A47-A9ED-49B5-B68F-8983ACA91513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0724A47-A9ED-49B5-B68F-8983ACA91513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0724A47-A9ED-49B5-B68F-8983ACA91513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0724A47-A9ED-49B5-B68F-8983ACA91513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0CA3801A-2489-4842-B40D-9392ED06010C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B0724A47-A9ED-49B5-B68F-8983ACA91513} = {EA361BCC-DEBE-4500-88FE-ECBC99EA37DD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {506AA905-C80B-4CE0-947E-A455A6BB283C}
+	EndGlobalSection
+EndGlobal
